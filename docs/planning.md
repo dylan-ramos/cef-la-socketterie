@@ -47,3 +47,7 @@ gantt
     Recette client                                 :crit, t25, after t24, 2d
     Mise en production                             :crit, t26, after t25, 2d
     Documentation                                  :t27, after t26, 1d
+
+    section Jalons
+    Version présentable pour le tournage TV       :milestone, m1, 2026-12-21, 0d
+    Date limite mise en production                :milestone, m2, 2027-01-21, 0d
